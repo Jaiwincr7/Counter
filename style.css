@@ -1,0 +1,34 @@
+body{
+    background-color:antiquewhite ;
+}
+
+h1{
+    font-size: 4.6rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 550px;
+    top: 180px;
+}
+h2{
+    font-size: 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 680px;
+    top: 140px;
+}
+button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    position: relative;
+    left: 535px;
+    top: 90px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 1rem;
+}
+button:hover{
+    background-color: black;
+    color:white;
+    cursor: pointer;
+}
